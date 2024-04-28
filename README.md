@@ -1,4 +1,4 @@
-<h1>CRUR Demo Pictures</h1>
+</t><h1>CRUR Demo Pictures</h1>
 <h1>Home Page:</h1>
 
 ![11](https://github.com/thofazzolhossen/CRUD_App/assets/69817824/56bd18e1-f87b-4a6b-aeb8-c0568f852a9a)
