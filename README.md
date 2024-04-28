@@ -1,4 +1,4 @@
-<h1>MERN_Stack_CRUR_App</h1>
+<h1>MERN_Stack_CRUR_App</h1> 
 <h1>Frontend:</h1>
 ![r](https://github.com/thofazzolhossen/MERN_Stack_CRUD_App/assets/69817824/8ce18fa9-b26f-4f84-bb56-3fd72ebae5fd)
 <h1>Backend:</h1>
